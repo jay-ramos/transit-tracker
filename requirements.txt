@@ -1,0 +1,6 @@
+# People Counter — Dependencies
+# Install with:  pip install -r requirements.txt
+
+ultralytics>=8.0.0   # YOLO26 + BoTSPORT built-in
+opencv-python>=4.8.0
+numpy>=1.24.0
